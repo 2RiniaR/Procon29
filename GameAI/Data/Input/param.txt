@@ -1,0 +1,3 @@
+Rollout:45000
+Maxdeep:6
+Costparam:80.0
